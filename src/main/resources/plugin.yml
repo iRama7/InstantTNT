@@ -1,0 +1,5 @@
+name: InstantTNT
+version: '${project.version}'
+main: rama.it.InstantTNT
+authors: [ ImRama ]
+description: Instant TNT fuse when placing
